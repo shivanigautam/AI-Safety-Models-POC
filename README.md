@@ -217,13 +217,7 @@ AI_Safety_Models_POC/
 └── requirements.txt        # Dependencies
 ```
 
-## Contact & Support
-
-**Technical Lead**: [Your Name]  
-**Email**: [your.email@domain.com]  
-**LinkedIn**: [linkedin.com/in/yourprofile]  
-**GitHub**: [github.com/yourusername]
-
 ---
 
 *This project demonstrates advanced ML engineering capabilities, production-ready code quality, and comprehensive system design skills suitable for senior technical roles.*
+
